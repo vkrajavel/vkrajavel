@@ -1,7 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Web Developing...
+- - 📫 How to reach me: vkrajavel45@gmail.com ...
 <!--
-**vkrajavel/vkrajavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** vkrajavel/vkrajavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
